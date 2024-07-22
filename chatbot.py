@@ -1,7 +1,7 @@
 import openai
 
 # Set up your API key
-openai.api_key = 'sk-proj-3lxeRa3ePFQpcUYMx1CvT3BlbkFJ7LwdGjEjiG3Rypn6xcCQpython chatbot.py'
+openai.api_key = 'your api key here'
 
 # Define a function to get a response from the model
 def get_response(prompt):
@@ -26,5 +26,3 @@ while True:
 
 #hell
 
-
-#sk-proj-3lxeRa3ePFQpcUYMx1CvT3BlbkFJ7LwdGjEjiG3Rypn6xcCQpython chatbot.py
